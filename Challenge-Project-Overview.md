@@ -1,7 +1,7 @@
 # Contract Review Challenge
 
 **Company / Org:** Accenture  
-**Challenge Advisor:** Athina Gerodias, [Email address]  
+**Challenge Advisor:** Athina Gerodias, athina.gerodias@accenture.com   
 **AI Studio Coach:** Parth Dali, parth.dali@breakthroughtech.org  
 **Program:** Break Through Tech AI Studio - Fall 2026  
 
@@ -113,7 +113,7 @@ Feel free to explore beyond these, and share anything interesting you find with 
 **Other ways to reach out to me with questions:**  
 * Team Discord Channel
 
-**Communication:** Email (Email Address); please copy your teammates and AI Studio Coach. 
+**Communication:** Email (athina.gerodias@accenture.com); please copy your teammates and AI Studio Coach. 
 
 * [Note: I will aim to respond within 48 hours. Please reach out to your AI Studio Coach with urgent questions.]
 
