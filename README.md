@@ -5,6 +5,7 @@
 
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
+| Jasleen Kaur     | @jasleenkaur0119| Feature engineering, model selection, model training and optimization
 | Claire Cheng     | @clarify239   |                                                                          |
 | Tommy Hastings   | @thas547     |                                                                           |
 | Amina Hassan     | @aminahassan  | Data preprocessing, feature engineering, data validation                 |
