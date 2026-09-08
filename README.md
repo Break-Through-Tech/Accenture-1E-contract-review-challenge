@@ -7,11 +7,12 @@
 |------------------|---------------|--------------------------------------------------------------------------|
 | Jasleen Kaur     | @jasleenkaur0119| Feature engineering, model selection, model training and optimization
 | Claire Cheng     | @clarify239   |                                                                          |
-| Tommy Hastings   | @thas547     |                                                                           |
+| Tommy Hastings   | @thas547      |                                                                          |
 | Amina Hassan     | @aminahassan  | Data preprocessing, feature engineering, data validation                 |
 | Priya Mehta      | @pmehta       | Model selection, hyperparameter tuning, model training and optimization  |
 | Chris Park       | @chrispark    | Model evaluation, performance analysis, results interpretation           |
-| Ethan Fregene     | @e-fregene   |                                                                          |
+| Ethan Fregene    | @e-fregene    |                                                                          |
+| Ferdous Ahmed    | @FerdousCodes |                                                                          |
 
 ---
 
