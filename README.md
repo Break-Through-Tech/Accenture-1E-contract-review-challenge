@@ -13,7 +13,7 @@
 | Chris Park       | @chrispark    | Model evaluation, performance analysis, results interpretation           |
 | Ethan Fregene    | @e-fregene    |                                                                          |
 | Ferdous Ahmed    | @FerdousCodes |                                                                          |
-
+| Tino Chikodzi    | @tchikodzi1   |                                                                          |
 ---
 
 ## 🎯 **Project Highlights**
