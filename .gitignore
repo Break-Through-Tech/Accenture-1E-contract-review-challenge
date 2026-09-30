@@ -24,3 +24,6 @@ models/
 outputs/
 *.pt
 *.pkl
+
+# Generated data (re-created by notebooks/02_clean_cuad.ipynb)
+data/processed/
