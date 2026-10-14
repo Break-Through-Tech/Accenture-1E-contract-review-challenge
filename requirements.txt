@@ -4,3 +4,6 @@ jupyter
 ipykernel
 matplotlib
 seaborn
+transformers
+torch
+scikit-learn
