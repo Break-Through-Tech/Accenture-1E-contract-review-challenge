@@ -5,7 +5,7 @@
 
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
-| Jasleen Kaur     | @jasleenkaur0119| Feature engineering, model selection, model training and optimization
+| Jasleen Kaur     | @jasleenkaur0119|
 | Claire Cheng     | @clarify239   |                                                                          |
 | Tommy Hastings   | @thas547      |                                                                          |
 | Ethan Fregene    | @e-fregene    |                                                                          |
@@ -28,11 +28,11 @@
 
 **Provide step-by-step instructions so someone else can run your code and reproduce your results. Depending on your setup, include:**
 
-* How to clone the repository
-* How to install dependencies
-* How to set up the environment
-* How to access the dataset(s)
-* How to run the notebook or scripts
+* How to clone the repository:
+* How to install dependencies:
+* How to set up the environment:
+* How to access the dataset(s):
+* How to run the notebook or scripts:
 
 ---
 
