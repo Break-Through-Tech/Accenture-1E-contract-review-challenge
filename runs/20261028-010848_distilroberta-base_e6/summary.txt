@@ -1,0 +1,14 @@
+run           : 20261028-010848
+model         : distilroberta-base | 6 epochs | lr 3e-05 | batch 32
+pos_weight    : sqrt(neg/pos), 5.1-24.5
+chunks        : 17,984 fit / 3,013 val / 4,283 test
+val macro-AP  : 0.5340
+
+TEST - 38 scored categories of 40
+  macro-AP    : 0.5123   <- headline
+  macro-AUC   : 0.9452
+  macro-F1    : 0.5013
+  macro-P / R : 0.5131 / 0.5652
+  chance AP   : 0.0153  (33.5x lift)
+
+Chunk-level metrics. Not comparable to published CUAD AUPR (span extraction).
