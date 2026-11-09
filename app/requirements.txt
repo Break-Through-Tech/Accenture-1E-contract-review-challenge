@@ -1,0 +1,9 @@
+# Packages for the Streamlit app. Uses the smaller CPU version of torch.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+transformers
+huggingface_hub
+streamlit
+pandas
+numpy
+pypdf

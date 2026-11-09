@@ -27,3 +27,7 @@ outputs/
 
 # Generated data (re-created by notebooks/02_clean_cuad.ipynb)
 data/processed/
+
+# Streamlit app: local model copy and secrets
+app/model/
+.streamlit/secrets.toml
