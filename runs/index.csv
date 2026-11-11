@@ -1,5 +1,4 @@
 run,epochs,val_macro_ap,chunk_precision,chunk_recall,chunk_f1,chunk_ap,contract_precision,contract_recall,contract_f1,contract_ap,has_probs,size_mb
-20261028-000247_distilroberta-base_e3,3,0.425903,0.4117,0.4974,0.415,0.4226,,,,,False,0.01
 20261028-010848_distilroberta-base_e6,6,0.533961,0.5131,0.5652,0.5013,0.5123,,,,,False,0.01
 20261110-215924_distilroberta-base_e8,8,0.554005,0.5437,0.5835,0.5346,0.5588,,,,,False,0.01
 20261028-020745_distilroberta-base_e12,12,0.603527,0.5765,0.6175,0.5774,0.584,0.7116,0.7481,0.7114,0.8053,True,2.35
