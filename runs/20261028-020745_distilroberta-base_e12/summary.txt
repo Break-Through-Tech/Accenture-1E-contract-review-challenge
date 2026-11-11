@@ -1,27 +1,14 @@
-run        : 20261028-020745
-model      : distilroberta-base | 12 epochs | lr 3e-05 | batch 32
-pos_weight : sqrt(neg/pos)
-chunks     : 17,984 fit / 3,013 val / 4,283 test
-val macro-AP (model selection) : 0.6035
+run           : 20261028-020745
+model         : distilroberta-base | 12 epochs | lr 3e-05 | batch 32
+pos_weight    : sqrt(neg/pos), 5.1-24.5
+chunks        : 17,984 fit / 3,013 val / 4,283 test
+val macro-AP  : 0.6035
 
-CHUNK LEVEL - 38 scored categories, 4,283 chunks, 162,754 decisions
-  precision : 0.5765
-  recall    : 0.6175
-  F1        : 0.5774   <- headline metric
-  AUC       : 0.9477
-  AP        : 0.5840
-  base rate : 0.0153  (AP lift 38.2x)
+TEST - 38 scored categories of 40
+  macro-AP    : 0.5840   <- headline
+  macro-AUC   : 0.9477
+  macro-F1    : 0.5774
+  macro-P / R : 0.5765 / 0.6175
+  chance AP   : 0.0153  (38.2x lift)
 
-CONTRACT LEVEL - 38 scored categories, 102 contracts, 3,876 decisions
-  precision : 0.7116
-  recall    : 0.7481
-  F1        : 0.7114   <- headline metric
-  AUC       : 0.9247
-  AP        : 0.8053
-  base rate : 0.2683  (AP lift 3.0x)
-
-RISK RANKING - Spearman vs advisor : pending (#30/#32)
-
-Macro-averaged over scored categories. Chunk and contract level answer
-different questions - always quote each with its base rate. Neither is
-comparable to published CUAD AUPR, which scores span extraction.
+Chunk-level metrics. Not comparable to published CUAD AUPR (span extraction).
