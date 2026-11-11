@@ -1,0 +1,19 @@
+{
+  "chunk": {
+    "n_categories": 38,
+    "n_units": 4283,
+    "n_decisions": 162754,
+    "precision": 0.5131,
+    "recall": 0.5652,
+    "f1": 0.5013,
+    "auc": 0.9452,
+    "ap": 0.5123,
+    "base_rate": 0.0153,
+    "ap_lift": 33.5,
+    "excluded": []
+  },
+  "risk_ranking": {
+    "spearman": null,
+    "n_ranked": null
+  }
+}
